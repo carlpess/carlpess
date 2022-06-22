@@ -1,6 +1,6 @@
 ### Olá👋, me chamo Carlos Pessoa!
 
-- 💻 Desenvolvedor de Software em Formação pela Cubos Academy
+- 💻 Desenvolvedor de Software em Formação pela **Cubos Academy**.
 -  :godmode: Em busca de mudar o mundo por meio da tecnologia!
 -  📝 Todo dia é dia de aprender algo novo.
 
