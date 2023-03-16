@@ -3,6 +3,7 @@
 - 💻 Desenvolvedor de Software Full Stack formado pela **Cubos Academy**.
 -  :godmode: Em busca de mudar o mundo por meio da tecnologia!
 -  📝 Todo dia é dia de aprender algo novo.
+-  Estudando Typescript no momento
 
 #### Ferramentas e Tecnologias:
 
